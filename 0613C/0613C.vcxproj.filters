@@ -15,8 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="highLowSeven.cpp">
+    <ClCompile Include="..\..\..\..\..\Downloads\RPG.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="0614필기.txt" />
   </ItemGroup>
 </Project>
